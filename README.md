@@ -1,7 +1,7 @@
 # Hospitals in Ghana
 
 A Progressive Web App publishing a database of Public and Private Hospitals in Accra
-[nigerialogos.com](https://github.com/wecodeafrica/hospitalsghanas).
+[hospitalsinghana.com](https://github.com/wecodeafrica/hospitalsghanas).
 
 ## Getting Started
 
