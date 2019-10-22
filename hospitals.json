@@ -36,5 +36,28 @@
 		  "General"
 	  ],
     "type": "Public"
-  }
+  },
+  {
+    "name": "Bemuah Royal Hospital",
+    "address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
+    "coordinates": {
+      "lat": "5.6754346,"
+      "long": "-0.1700398"
+    },
+    "contacts": [
+      "+233 302 543 652",
+      "+233 233 66 36 36"
+
+    ],
+    "email": "",
+    "website": "http://bemuahospital.com/",
+	  "services": [
+		  "General",
+      "Cardiology",
+      "Respiratory Care",
+      "Out Patient Care",
+      "Critical Care "
+	  ],
+    "type": "Private"
+  },
 ]
