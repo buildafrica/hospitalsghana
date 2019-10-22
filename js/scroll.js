@@ -1,7 +1,7 @@
 (function(){
     const alphabets = document.querySelector('.companies-alphabet');
-    const scrollShowLogo = document.querySelector('.scroll-show .site-logo');
-    const scrollShowSearchbar = document.querySelector('.scroll-show .searchbar');
+    const scrollShowLogo = document.querySelector('.scroll-shw .site-logo');
+    const scrollShowSearchbar = document.querySelector('.scroll-shw .searchbar');
     const whiteBG = document.querySelector('.white-bg');
     const secondaryAlphabet =  document.querySelector('.secondary-alphabet');
     window.addEventListener('scroll', ()=>{
