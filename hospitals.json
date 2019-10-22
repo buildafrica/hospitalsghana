@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Yeboah Hospital",
+    "address": "Boundary Rd, Accra",
+    "coordinates": {
+      "lat": "5.6381897",
+      "long": "-0.1529364"
+    },
+    "contacts": [
+      "050 446 6550",
+      "0302 985417"
+    ],
+    "email": "tyeboahhospital@yahoo.co.uk",
+    "website": "http://www.yeboahhospital.com/",
+    "category": "General",
+    "type": "Private"
+  },
+  {
+    "name": "37 Military Hospital",
+    "address": "Neghelli Barracks Liberation Rd 37, Accra, Ghana",
+    "coordinates": {
+      "lat": "5.6166871",
+      "long": "-0.1807752"
+    },
+    "contacts": [
+      "0302 774 318",
+      "0302 777 595",
+      "0302 767 691",
+      "0302 786 103"
+    ],
+    "email": "",
+    "website": "gafonline.com/37militaryhospital/index.php/homepage",
+    "category": "General",
+    "type": "Public"
+  }
+]
