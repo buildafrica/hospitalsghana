@@ -12,7 +12,9 @@
     ],
     "email": "tyeboahhospital@yahoo.co.uk",
     "website": "http://www.yeboahhospital.com/",
-    "category": "General",
+    "services": [
+	"General"
+	],
     "type": "Private"
   },
   {
@@ -30,7 +32,9 @@
     ],
     "email": "",
     "website": "gafonline.com/37militaryhospital/index.php/homepage",
-    "category": "General",
+	  "services": [
+		  "General"
+	  ],
     "type": "Public"
   }
 ]
