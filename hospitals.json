@@ -57,6 +57,21 @@
       "Out Patient Care",
       "Critical Care "
 	  ],
-    "type": "Private"
+	"type": "Private"
+  },
+  {
+    "name": "Manhyia District Hospital",
+    "address": "Manhyia, Kumasi, Ghana",
+    "coordinates": {
+      "lat": "",
+      "long": ""
+    },
+    "contacts": [],
+    "email": "",
+    "website": "",
+          "services": [
+                  "General"
+          ],
+    "type": "Public"
   }
 ]
