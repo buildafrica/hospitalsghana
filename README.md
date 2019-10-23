@@ -1,5 +1,5 @@
 # Hospitals in Ghana
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 A Progressive Web App publishing a database of Public and Private Hospitals in Accra
 [hospitalsinghana.com](https://github.com/wecodeafrica/hospitalsghanas).
@@ -105,6 +105,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/mickeymond"><img src="https://avatars1.githubusercontent.com/u/33749130?v=4" width="100px;" alt="Michael Hammond"/><br /><sub><b>Michael Hammond</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=mickeymond" title="Documentation">📖</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=mickeymond" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Anillab"><img src="https://avatars2.githubusercontent.com/u/38463007?v=4" width="100px;" alt="Anilla Stephannie"/><br /><sub><b>Anilla Stephannie</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=Anillab" title="Documentation">📖</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=Anillab" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lawrence-chege"><img src="https://avatars3.githubusercontent.com/u/54583143?v=4" width="100px;" alt="Larry Chege"/><br /><sub><b>Larry Chege</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=lawrence-chege" title="Documentation">📖</a> <a href="#content-lawrence-chege" title="Content">🖋</a></td>
   </tr>
 </table>
 
