@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mickeymond",
+      "name": "Michael Hammond",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33749130?v=4",
+      "profile": "https://github.com/mickeymond",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hospitalsghana",
+  "projectOwner": "wecodeafrica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
