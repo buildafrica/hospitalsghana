@@ -45,6 +45,15 @@
         "doc",
         "review",
         "maintenance"
+    },
+    {
+      "login": "audreymengue",
+      "name": "Audrey Harmonie M Mengue",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/51542962?v=4",
+      "profile": "https://github.com/audreymengue",
+      "contributions": [
+        "code",
+        "doc"
       ]
     }
   ],
