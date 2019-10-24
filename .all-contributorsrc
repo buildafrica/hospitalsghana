@@ -56,6 +56,17 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "eadortsu",
+      "name": "Eugene",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40460447?v=4",
+      "profile": "https://eadortsu.com",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
