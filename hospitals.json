@@ -1,77 +1,77 @@
-[{
-    "name": "Yeboah Hospital",
-    "address": "Boundary Rd, Accra",
-    "coordinates": {
-      "lat": "5.6381897",
-      "long": "-0.1529364"
-    },
-    "contacts": [
-      "050 446 6550",
-      "0302 985417"
-    ],
-    "email": "tyeboahhospital@yahoo.co.uk",
-    "website": "http://www.yeboahhospital.com/",
-    "services": [
-	"General"
-	],
-    "type": "Private"
-  },
-  {
-    "name": "37 Military Hospital",
-    "address": "Neghelli Barracks Liberation Rd 37, Accra, Ghana",
-    "coordinates": {
-      "lat": "5.6166871",
-      "long": "-0.1807752"
-    },
-    "contacts": [
-      "0302 774 318",
-      "0302 777 595",
-      "0302 767 691",
-      "0302 786 103"
-    ],
-    "email": "",
-    "website": "gafonline.com/37militaryhospital/index.php/homepage",
-	  "services": [
-		  "General"
-	  ],
-    "type": "Public"
-  },
-  {
-    "name": "Bemuah Royal Hospital",
-    "address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
-    "coordinates": {
-      "lat": "5.6754346",
-      "long": "-0.1700398"
-    },
-    "contacts": [
-      "+233 302 543 652",
-      "+233 233 66 36 36"
-
-    ],
-    "email": "",
-    "website": "http://bemuahospital.com/",
-	  "services": [
-	  "General",
-      "Cardiology",
-      "Respiratory Care",
-      "Out Patient Care",
-      "Critical Care "
-	  ],
-	"type": "Private"
-  },
-  {
-    "name": "Manhyia District Hospital",
-    "address": "Manhyia, Kumasi, Ghana",
-    "coordinates": {
-      "lat": "",
-      "long": ""
-    },
-    "contacts": [],
-    "email": "",
-    "website": "",
-          "services": [
-                  "General"
-          ],
-    "type": "Public"
-  }
+[
+	{
+		"name": "Yeboah Hospital",
+		"address": "Boundary Rd, Accra",
+		"coordinates": {
+			"lat": "5.6381897",
+			"long": "-0.1529364"
+		},
+		"contacts": ["050 446 6550", "0302 985417"],
+		"email": "tyeboahhospital@yahoo.co.uk",
+		"website": "http://www.yeboahhospital.com/",
+		"services": ["General"],
+		"type": "Private"
+	},
+	{
+		"name": "37 Military Hospital",
+		"address": "Neghelli Barracks Liberation Rd 37, Accra, Ghana",
+		"coordinates": {
+			"lat": "5.6166871",
+			"long": "-0.1807752"
+		},
+		"contacts": ["0302 774 318", "0302 777 595", "0302 767 691", "0302 786 103"],
+		"email": "",
+		"website": "gafonline.com/37militaryhospital/index.php/homepage",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "Bemuah Royal Hospital",
+		"address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
+		"coordinates": {
+			"lat": "5.6754346",
+			"long": "-0.1700398"
+		},
+		"contacts": ["+233 302 543 652", "+233 233 66 36 36"],
+		"email": "",
+		"website": "http://bemuahospital.com/",
+		"services": ["General", "Cardiology", "Respiratory Care", "Out Patient Care", "Critical Care "],
+		"type": "Private"
+	},
+	{
+		"name": "Manhyia District Hospital",
+		"address": "Manhyia, Kumasi, Ghana",
+		"coordinates": {
+			"lat": "",
+			"long": ""
+		},
+		"contacts": [],
+		"email": "",
+		"website": "",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "Nyaho Medical Center",
+		"address": "35 Kofi Annan St, Airport Residential Area, Accra, Ghana",
+		"contact": "03070864890",
+		"email": "www.nyahomedical.com",
+		"type": "Private Clinic",
+		"services": ["24/7 Primary Care Practice", "Anaesthesia", "General", "Dentistry", "Dermatology", "Dietetics", "Haematology", "Internal Medicine"],
+		"type of insurance": [
+			"ACACIA HEALTH INSURANCE",
+			"ACE MEDICAL INSURANCE",
+			"APEX HEALTH",
+			"COSMOPOLITAN",
+			"GLICO HEALTHCARE",
+			"KAISER MUTUAL HEALTH",
+			"METROPOLITAN HEALTH",
+			"NATIONWIDE MUTUAL HEALTHCARE",
+			"PHOENIX HEALTH INSURANCE",
+			"PREMIER MUTUAL HEALTH",
+			"UNIVERSAL HEALTH INSURANCE"
+		],
+		"number of bed": "10",
+		"Working hours": "24/7 throughout the year"
+	}
 ]
