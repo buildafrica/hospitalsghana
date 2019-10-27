@@ -67,6 +67,16 @@
         "test",
         "doc"
       ]
+    },
+    {
+      "login": "owanikin",
+      "name": "owanikin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54582856?v=4",
+      "profile": "https://github.com/owanikin",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
