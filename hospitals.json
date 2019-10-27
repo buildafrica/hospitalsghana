@@ -26,6 +26,19 @@
 		"type": "Public"
 	},
 	{
+		"name": "DEL International Hospital",
+		"address": "65/67 Nii Sai Street, 65 Fourth St, Accra",
+		"coordinates": {
+			"lat": "5.6523036",
+			"long": "-0.1558927"
+		},
+		"contacts": ["030 254 3256"],
+		"email": "delinternationalhospital@mail.com",
+		"website": "http://www.delinternationalhospital.com/",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
 		"name": "Bemuah Royal Hospital",
 		"address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
 		"coordinates": {
