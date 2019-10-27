@@ -39,6 +39,17 @@
 		"type": "Public"
 	},
 	{
+		"name": "3M&C Medical Centre",
+		"address": "A&C Square, DTD LG 10081, East Legon, Accra",
+		"coordinates": {
+			"lat": "5.6433071",
+			"long": "-0.1550599"
+		},
+		"contacts": ["030 250 3617"],
+		"services": ["General"],
+		"type": "Private"
+	},
+	{
 		"name": "Bemuah Royal Hospital",
 		"address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
 		"coordinates": {
