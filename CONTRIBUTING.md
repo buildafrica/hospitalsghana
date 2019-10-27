@@ -20,7 +20,7 @@
 ## *STEP FOUR*
 
 - add the remote upstream to connect to the main repo `git remote add upstream https://github.com/wecodeafrica/hospitalsghana.git`
-- or for ssh `git remote add upstream git clone git@github.com:wecodeafrica/hospitalsghana.git`
+- or for ssh `git remote add upstream git@github.com:wecodeafrica/hospitalsghana.git`
 - now you have two remotes on your local computer : origin and upstream
 
 ## *STEP FIVE*
