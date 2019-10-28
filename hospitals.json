@@ -52,6 +52,19 @@
 		"type": "Public"
 	},
 	{
+		"name": "Lister Hospital & Fertility Centre",
+		"address": "Airport Hills Blvd, Accra",
+		"coordinates": {
+			"lat": "@5.619415",
+			"long": "-0.1486335"
+		},
+		"contacts": ["+233 303 409 030", "+233 303 409 031", "+233 244 313 883"],
+		"email": "info@listerhospital.com.gh",
+		"website": "http://www.listerhospital.com.gh/",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
 		"name": "3M&C Medical Centre",
 		"address": "A&C Square, DTD LG 10081, East Legon, Accra",
 		"coordinates": {
