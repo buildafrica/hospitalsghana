@@ -2,77 +2,89 @@
 
 ## *STEP ONE*
 
-- Make a fork of this repo on your git hub
+- Make a fork of this repo on your Github
 ![FORK](images/Fork.png)
 
 ## *STEP TWO*
 
-- Clone the repo on your computer
+- Clone the repo on your computer:  
 `git clone https://github.com/wecodeafrica/hospitalsghana.git` 
-- or if you use ssh
+
+- Or, if you use SSH:  
 `git clone git@github.com:wecodeafrica/hospitalsghana.git`
 
 ## *STEP THREE*
 
-- Go into the app folder
+- Using yout command line tool, go to the app folder:  
 `cd hospitalsghana`
 
 ## *STEP FOUR*
 
-- add the remote upstream to connect to the main repo `git remote add upstream https://github.com/wecodeafrica/hospitalsghana.git`
-- or for ssh `git remote add upstream git clone git@github.com:wecodeafrica/hospitalsghana.git`
-- now you have two remotes on your local computer : origin and upstream
+- Add remote upstream to the main repository:  
+`git remote add upstream https://github.com/wecodeafrica/hospitalsghana.git`
+
+- Or, for SHH:  
+`git remote add upstream git@github.com:wecodeafrica/hospitalsghana.git`
+
+Now you have two remotes on your local computer: `origin` and `upstream`
 
 ## *STEP FIVE*
 
-- make sure you are on master branch
+- Make sure you are on master branch:  
 `git checkout master`
 
-- Get the current version of both on the main repo and push to your forked 
+- Get the current version of both on the main repository and push to your fork:  
 `git pull upstream master && git push origin master`
+- Create a new branch to work on and name it following this patther:  
+`your-username\branch-purpose`;
 
-- Create a new branch to work on. Name this in a precise manner. I prefer name\feature;
+- As an example:  
 `git checkout -b lawrence\update-readme`
 
 ## *STEP SIX*
 
-- Do some work and stage to git
-_git add file you changed_
+- After do some work, stage to git:  
+`git add file you changed`
 
-- In this case
+- In this case:  
 `git add README.md`
 
-- Commit the work you staged to git to save it permanently
-_git commit -m "message of what you did"_
+- Commit the work you staged to git to save it permanently:  
+`git commit -m "message of what you did"`
 
-- In this case
+- In this case:  
 `git commit -m "update contributing part of README.md`
 
-- Push the new branch to the remote repo on github
-_git push -u origin branch you created_
+- Push the new branch to the remote repo on Github:  
+`git push -u origin branch you created`
 
-- in this case
+- In this case:  
 `git push -u origin lawrence\update-readme`
 
 ## *STEP SEVEN*
 
-- Create a pull request
-- This is for asking for your changes to be included in the main repo
-- Go to your github ... to the repo you forked
+- Create a pull request  
+This is for asking for your changes to be included in the main repository.  
+
+- In Github, go to your fork of the repository
+  
+- You can use the _Compare and pull request_ button.
 
 ![Pull Request](images/pullrequest.png)
 
-- Click on the compare and pull request.
+- Add a proper name and description to your pull request
 
 ![Pull Request](images/pulrequest2.png)
 
-- To create a pull request . Use markdown symbols as used below
+You can use follow this example:  
 
 ```md
 # Title of what you did
+
 ## subtitle or short description
 - To make points
 - More points
+
 # Screenshots
 - drag and drop images to show the outputs of your changes
 - this makes it easier to verify your changes
@@ -80,7 +92,7 @@ _git push -u origin branch you created_
 
 ## *STEP EIGHT*
 
-- sit , relax , and wait for your pull request to be accepted.
+- Sit, relax, and wait for your pull request to be accepted. :)
 - You did good.
 
 ## Maintainers
