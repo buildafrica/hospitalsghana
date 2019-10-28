@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 
 A Progressive Web App publishing a database of Public and Private Hospitals in Accra
-[hospitalsinghana.com](https://github.com/wecodeafrica/hospitalsghanas).
+[hospitalsinghana.com](http://hospitalsinghana.com).
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ If you're making any style changes, you need to compile the SCSS. Here's how to 
 ### Contributing
 
 To learn more about contributing to this project by reading the [contribution guide](CONTRIBUTING.md).
- 
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
