@@ -123,5 +123,18 @@
 		],
 		"number of bed": "10",
 		"Working hours": "24/7 throughout the year"
+	},
+	{
+		"name": "Twumasiwaa Hospital",
+		"address": "Boundary Road Otinshie, East Legon, Accra, Ghana",
+		"coordinates": {
+			"lat": "5.660960",
+			"long": "-0.148212"
+		},
+		"contact": "0302518933",
+		"type": "Private Clinic",
+		"services": [ "General", "Dentistry"],
+		"number of bed": "10",
+		"Working hours": "24/7 throughout the year"
 	}
 ]
