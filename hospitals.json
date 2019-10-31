@@ -55,6 +55,17 @@
      "email": "info@medifemhospital.com",
      "type": "Private Clinic",
      "services": ["General Surgery", "Pharmacy", "Urology", "Cardiology", "Dentistry", "Paediatrics"],
-     "Working hours": "24/7 throughout the year"}
+     "Working hours": "24/7 throughout the year"},
+
+     {
+      "name": "The Trust Hospital Mother and Child ",
+      "address": " The Trust Hospital Ltd PMB 16, Ministries - Accra. Ghana-West Africa.",
+     "contact": " 0302 761 974, 0302 761 975",
+     "email": " info@thetrusthospital.com",
+     "type": "Private Clinic",
+     "services": ["General Surgery", "Pharmacy", "Urology", "Cardiology", "Dentistry", "Paediatrics", "spinal clinic", "Electrocardiography (ECG)", "Radiology", "Ear, Nose & Throat (ENT)"],
+     "Clients": "SSNIT employees and their dependants, Corporate clients, National Health Insurance clients, Private Health Insurance clients, Private individual clients",
+     "Working hours": "24/7 throughout the year",
+     "Branches": "Tema community 2, Pension House Ministries, Accra, Adenta Shopping Mall, Dome, Dome Telecom, Dansoman, Opposite Baptist Academy, Sakumono, Opposite the Tennis Court Sakumono Estates" }
     
 ]
