@@ -66,6 +66,18 @@
      "services": ["General Surgery", "Pharmacy", "Urology", "Cardiology", "Dentistry", "Paediatrics", "spinal clinic", "Electrocardiography (ECG)", "Radiology", "Ear, Nose & Throat (ENT)"],
      "Clients": "SSNIT employees and their dependants, Corporate clients, National Health Insurance clients, Private Health Insurance clients, Private individual clients",
      "Working hours": "24/7 throughout the year",
-     "Branches": "Tema community 2, Pension House Ministries, Accra, Adenta Shopping Mall, Dome, Dome Telecom, Dansoman, Opposite Baptist Academy, Sakumono, Opposite the Tennis Court Sakumono Estates" }
+     "Branches": "Tema community 2, Pension House Ministries, Accra, Adenta Shopping Mall, Dome, Dome Telecom, Dansoman, Opposite Baptist Academy, Sakumono, Opposite the Tennis Court Sakumono Estates" },
+
+     {
+      "name": "Accra psychiatric hospital ",
+      "address": " CASTLE ROAD ACCRA BOX 1305 ACCRA.",
+     "contact": " +233 (0) 302-228688, +233 (0) 302-221920, +233 (0) 302-221340.",
+     "email": "info@accrapsychiatrichospital.org",
+     "type": "Private Clinic",
+     "services": ["Consultations", "Out-Patient & In-Patient Management", "Lab Services", "Teaching and Research", "Occupational  Therapy Services", "Alcoholic Anonymous (AA) Meetings", "Narcotics  Anonymous (NA) Meetings"],
+     "TOP TEN OPD DIAGNOSIS": "SCHIZOPHRENIA, DEPRESSION, BIPOLAR DISORDER, SEIZURE  DISORDER, ALCOHOL & SUBSTANCE ABUSE, ACUTE PSYCHOTIC DISORDER, DEMENTIA, ANXIETY DISORDERS, MENTAL RETARDATION, MIGRAINE",
+     "Number of bed": "24 at the moment",
+     "Additional Information": "Renders services to male clients for now",
+     "Supporting Facilities": "COLLEGE OF HEALTH KINTAMPO, PANTANG HOSPITAL, ANKAFUL HOSPITAL" }
     
 ]
