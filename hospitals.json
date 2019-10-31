@@ -1,40 +1,128 @@
 [
-  {
-    "name": "Yeboah Hospital",
-    "address": "Boundary Rd, Accra",
-    "coordinates": {
-      "lat": "5.6381897",
-      "long": "-0.1529364"
-    },
-    "contacts": [
-      "050 446 6550",
-      "0302 985417"
-    ],
-    "email": "tyeboahhospital@yahoo.co.uk",
-    "website": "http://www.yeboahhospital.com/",
-    "services": [
-	"General"
-	],
-    "type": "Private"
-  },
-  {
-    "name": "37 Military Hospital",
-    "address": "Neghelli Barracks Liberation Rd 37,Accra, Ghana",
-    "coordinates": {
-      "lat": "5.6166871",
-      "long": "-0.1807752"
-    },
-    "contacts": [
-      "0302 774 318",
-      "0302 777 595",
-      "0302 767 691",
-      "0302 786 103"
-    ],
-    "email": "",
-    "website": "gafonline.com/37militaryhospital/index.php/homepage",
-	  "services": [
-		  "General"
-	  ],
-    "type": "Public"
-  }
+	{
+		"name": "Yeboah Hospital",
+		"address": "Boundary Rd, Accra",
+		"coordinates": {
+			"lat": "5.6381897",
+			"long": "-0.1529364"
+		},
+		"contacts": ["050 446 6550", "0302 985417"],
+		"email": "tyeboahhospital@yahoo.co.uk",
+		"website": "http://www.yeboahhospital.com/",
+		"services": ["General"],
+		"type": "Private"
+	},
+	{
+		"name": "37 Military Hospital",
+		"address": "Neghelli Barracks Liberation Rd 37, Accra, Ghana",
+		"coordinates": {
+			"lat": "5.6166871",
+			"long": "-0.1807752"
+		},
+		"contacts": ["0302 774 318", "0302 777 595", "0302 767 691", "0302 786 103"],
+		"email": "",
+		"website": "gafonline.com/37militaryhospital/index.php/homepage",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "Inkoom Hospital",
+		"address": "No. 143 Nungua Link, Opposite K. Ofori Enterprise, Baatsona, Spintex Road., Accra, Ghana",
+		"coordinates": {
+			"lat": "@5.6337866",
+			"long": "-0.1006549"
+		},
+		"contacts": ["054 066 7474"],
+		"email": "",
+		"website": "",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "DEL International Hospital",
+		"address": "65/67 Nii Sai Street, 65 Fourth St, Accra",
+		"coordinates": {
+			"lat": "5.6523036",
+			"long": "-0.1558927"
+		},
+		"contacts": ["030 254 3256"],
+		"email": "delinternationalhospital@mail.com",
+		"website": "http://www.delinternationalhospital.com/",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "Lister Hospital & Fertility Centre",
+		"address": "Airport Hills Blvd, Accra",
+		"coordinates": {
+			"lat": "@5.619415",
+			"long": "-0.1486335"
+		},
+		"contacts": ["+233 303 409 030", "+233 303 409 031", "+233 244 313 883"],
+		"email": "info@listerhospital.com.gh",
+		"website": "http://www.listerhospital.com.gh/",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "3M&C Medical Centre",
+		"address": "A&C Square, DTD LG 10081, East Legon, Accra",
+		"coordinates": {
+			"lat": "5.6433071",
+			"long": "-0.1550599"
+		},
+		"contacts": ["030 250 3617"],
+		"services": ["General"],
+		"type": "Private"
+	},
+	{
+		"name": "Bemuah Royal Hospital",
+		"address": "East Legon, 17 Asoyi Crescent, Behind The Mtn Office Near American Housr, East Legon, Accra, Ghana",
+		"coordinates": {
+			"lat": "5.6754346",
+			"long": "-0.1700398"
+		},
+		"contacts": ["+233 302 543 652", "+233 233 66 36 36"],
+		"email": "",
+		"website": "http://bemuahospital.com/",
+		"services": ["General", "Cardiology", "Respiratory Care", "Out Patient Care", "Critical Care "],
+		"type": "Private"
+	},
+	{
+		"name": "Manhyia District Hospital",
+		"address": "Manhyia, Kumasi, Ghana",
+		"coordinates": {
+			"lat": "",
+			"long": ""
+		},
+		"contacts": [],
+		"email": "",
+		"website": "",
+		"services": ["General"],
+		"type": "Public"
+	},
+	{
+		"name": "Nyaho Medical Center",
+		"address": "35 Kofi Annan St, Airport Residential Area, Accra, Ghana",
+		"contact": "03070864890",
+		"email": "www.nyahomedical.com",
+		"type": "Private Clinic",
+		"services": ["24/7 Primary Care Practice", "Anaesthesia", "General", "Dentistry", "Dermatology", "Dietetics", "Haematology", "Internal Medicine"],
+		"type of insurance": [
+			"ACACIA HEALTH INSURANCE",
+			"ACE MEDICAL INSURANCE",
+			"APEX HEALTH",
+			"COSMOPOLITAN",
+			"GLICO HEALTHCARE",
+			"KAISER MUTUAL HEALTH",
+			"METROPOLITAN HEALTH",
+			"NATIONWIDE MUTUAL HEALTHCARE",
+			"PHOENIX HEALTH INSURANCE",
+			"PREMIER MUTUAL HEALTH",
+			"UNIVERSAL HEALTH INSURANCE"
+		],
+		"number of bed": "10",
+		"Working hours": "24/7 throughout the year"
+	}
+
 ]

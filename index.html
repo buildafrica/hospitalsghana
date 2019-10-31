@@ -1,38 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- Favicons -->
-   
-    <link rel="manifest" href="/manifest.json">
-    <!-- Primary Meta Tags -->
+    <meta charset="utf-8"/>
+    <link rel="manifest" href="/manifest.json" />
     <title>Hospitals in Ghana - An open source project</title>
-    <meta name="title" content="Hospitals in Ghana - An open source project">
-    <meta name="description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="images/favicon.ico/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Primary Meta Tags -->
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <meta name="title" content="Hospitals in Ghana - An open source project" />
+    <meta name="description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra" />
+    <meta name="rating" content="general" />
+    <meta name="url" content="http://hospitalsinghana.com/" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="theme-color" content="#06DAAF" />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="62x62" href="" />
+
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://hospitalsinghana.netlify.com/">
-    <meta property="og:title" content="Hospitals in Ghana - An open source project">
-    <meta property="og:description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra">
-    <meta property="og:image" content="https://hospitalsinghana.netlify.com/images/icon.jpg">
-    <meta property="og:site_name" content="HospitalsinGhana" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://hospitalsinghana.com/" />
+    <meta property="og:title" content="Hospitals in Ghana - An open source project" />
+    <meta property="og:description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra" />
+    <meta property="og:image" content="" />
+    <meta property="og:site_name" content="Hospitals in Ghana" />
+
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://hospitalsinghana.netlify.com">
-    <meta property="twitter:title" content="Hospitals in Ghana - An open source project">
-    <meta property="twitter:description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra">
-    <meta property="twitter:image" content="https://hospitalsinghana.netlify.com/images/seo_card.jpg">
+    <meta property="twitter:card" content="" />
+    <meta property="twitter:url" content="http://hospitalsinghana.com/" />
+    <meta property="twitter:title" content="Hospitals in Ghana - An open source project" />
+    <meta property="twitter:description" content="A Progressive Web App publishing a database of Public and Private Hospitals in Accra" />
+    <meta property="twitter:image" content="https://hospitalsinghana.netlify.com/images/seo_card.jpg" />
+
+    <!-- Microsoft -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="msapplication-TileColor" content="#06DAAF" />
+    <meta name="msapplication-TileImage" content="" />
+    <meta name="msapplication-navbutton-color" content="#06DAAF" />
+
+    <!-- Apple -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#06DAAF" />
+
     <!-- Styles -->
-    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <meta name="viewport" content="width=device-width">
-    <meta name="theme-color" content="#ce1126" />
-    <meta name="msapplication-navbutton-color" content="#ce1126">
-    <meta name="apple-mobile-web-app-status-bar-style" content="#ce1126">
+    <link rel="stylesheet" href="css/main.css" />
+
     <!-- Scripts -->
     <script>
         if ('serviceWorker' in navigator) {
@@ -42,61 +53,57 @@
         }
     </script>
 </head>
-
 <body>
     <header>
         <div class="scroll-show">
             <div class="white-bg"></div>
             <div class="site-logo">
-                <a href="https://github.com/wecodeafrica/hospitalsghana/"><img src="images/logo.png" alt="Hospitals in Ghana"></a>
+                <a href="https://github.com/wecodeafrica/hospitalsghana/">
+                    <img src="images/logo.png" alt="Hospitals in Ghana" />
+                </a>
             </div>
             <div class="secondary-alphabet">
-                <a href="##">#</a>
+                <a href="#">#</a>
                 <!-- Populated by createSecondaryAlphabet() in imageLoad.js -->
             </div>
             <div class="searchbar">
                 <div class="select">
-                    <label for="Categories" class="visuallyhidden"><span>Regions</span></label>
+                    <label for="Categories" class="visuallyhidden">Regions</label>
                     <select name="Categories" id="Categories">
                         <option value="All Categories">All Regions</option>
                         <!-- OTHER CATEGORIES AUTOGENERATED HERE Format: Same as the option above.-->
                     </select>
                 </div>
                 <div class="search">
-                    <label for="search" class="visuallyhidden">
-                        <span>Search</span>
-                    </label>
-                    <input type="text" name="search" id="search" placeholder="search for a hospital">
+                    <label for="search" class="visuallyhidden">Search</label>
+                    <input type="text" name="search" id="search" placeholder="Search for a hospital" />
                 </div>
             </div>
         </div>
         <div class="heading">
             <div class="site-logo">
-                    <a href="/"><img src="images/logo.png" alt="Hospitals in Ghana logo"></a>
+                <a href="/">
+                    <img src="images/logo.png" alt="Hospitals in Ghana logo" />
+                </a>
             </div>
-            <h1>Hospitals in Ghana, an <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank">open source</a><br> database of
-                Public and <br>Private Hospitals in Ghana.</h1>
+            <h1>Hospitals in Ghana, an <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank" rel="noopener noreferrer">open source</a><br> database of Public and <br>Private Hospitals in Ghana.</h1>
             <p class="subcopy">Contribute to this projects</p>
-            <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank"><button class="contribute">Contribute on Github</button></a>
-
+            <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank" rel="noopener noreferrer"><button class="contribute">Contribute on Github</button></a>
             <div class="searchbar">
                 <div class="select">
-                    <label for="Categories" class="visuallyhidden"><span>Regions</span></label>
+                    <label for="Categories" class="visuallyhidden">Regions</label>
                     <select name="Categories" id="Categories">
                         <option value="All Categories">All Regions</option>
                         <!-- OTHER CATEGORIES AUTOGENERATED HERE Format: Same as the option above.-->
                     </select>
                 </div>
                 <div class="search">
-                    <label for="search" class="visuallyhidden">
-                        <span>Search</span>
-                    </label>
-                    <input type="text" name="search" id="search" placeholder="search for a hospital">
+                    <label for="search" class="visuallyhidden">Search</label>
+                    <input type="text" name="search" id="search" placeholder="Search for a hospital" />
                 </div>
             </div>
         </div>
-
-        <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank" class="contribute-mobile">Contribute on Github</a>
+        <a href="https://github.com/wecodeafrica/hospitalsghana" target="_blank" rel="noopener noreferrer" class="contribute-mobile">Contribute on Github</a>
     </header>
 
     <section>
@@ -127,10 +134,7 @@
     </section>
 
     <main>
-        <!-- LOGOS ARE DYNAMICALLY GENERATED HERE 
-        
-       
-        -->
+        <!-- LOGOS ARE DYNAMICALLY GENERATED HERE -->
     </main>
 
     <footer>
@@ -146,12 +150,11 @@
             </div>
         </a>
     </footer>
-    
+
     <!-- Scripts -->
-    <script src="js/imageLoad.js" defer></script>
+    <script src="js/loader.js" defer></script>
     <script src="js/search.js" defer></script>
     <script src="js/mobileDownload.js" defer></script>
     <script src="js/scroll.js"></script>
 </body>
-
 </html>

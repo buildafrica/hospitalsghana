@@ -1,0 +1,87 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mickeymond",
+      "name": "Michael Hammond",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33749130?v=4",
+      "profile": "https://github.com/mickeymond",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "Anillab",
+      "name": "Anilla Stephannie",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38463007?v=4",
+      "profile": "https://github.com/Anillab",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "lawrence-chege",
+      "name": "Larry Chege",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54583143?v=4",
+      "profile": "https://github.com/lawrence-chege",
+      "contributions": [
+        "doc",
+        "content"
+      ]
+    },
+    {
+      "login": "koolamusic",
+      "name": "Andrew Miracle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8960757?v=4",
+      "profile": "http://bit.ly/2EnR6Gf",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "audreymengue",
+      "name": "Audrey Harmonie M Mengue",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/51542962?v=4",
+      "profile": "https://github.com/audreymengue",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "eadortsu",
+      "name": "Eugene",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40460447?v=4",
+      "profile": "https://eadortsu.com",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    },
+    {
+      "login": "owanikin",
+      "name": "owanikin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54582856?v=4",
+      "profile": "https://github.com/owanikin",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hospitalsghana",
+  "projectOwner": "wecodeafrica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

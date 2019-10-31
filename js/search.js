@@ -20,7 +20,7 @@ searchbars.forEach(searchbar => {
             });
             searchTermHighlight(logo, typed);
             const isPresent = searchTitle.toLowerCase().includes(typed);
-            const categoryMatch = selectedCategory === 'All Categories' || logoCategory.includes(selectedCategory);
+            const categoryMatch = selectedCategory === 'All Regions' || logoCategory.includes(selectedCategory);
             const shouldShow = isPresent && categoryMatch;
             
             logo.style.display = shouldShow ? 'block' : 'none';
