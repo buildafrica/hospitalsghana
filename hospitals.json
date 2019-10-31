@@ -43,9 +43,18 @@
     "contact": "03070864890",
     "email": "www.nyahomedical.com",
     "type": "Private Clinic",
-    "services": ["24/7 Primary Care Practice, Anaesthesia, Cardiology, Dentistry,	Dermatology, Dietetics, Ear, Nose, and Throat (ENT), Haematology / Sickle Cell, Internal Medicine, Neurosurgery, Obstetrics / Gynaecology, Ophthalmology, Orthopaedics, Paediatrics, Physiotherapy, Plastic Surgery, Surgery (General), Urology"],
+    "services": ["24/7 Primary", "Care Practice", "Anaesthesia", "Cardiology", "Dentistry", "Dermatology", "Dietetics", "Ear", "Nose", "and Throat (ENT)", "Haematology/ Sickle Cell, Internal Medicine, Neurosurgery, Obstetrics / Gynaecology, Ophthalmology, Orthopaedics, Paediatrics, Physiotherapy, Plastic Surgery, Surgery (General), Urology"],
     "type of insurance": ["ACACIA HEALTH INSURANCE, ACE MEDICAL INSURANCE, APEX HEALTH, COSMOPOLITAN, GLICO HEALTHCARE, KAISER MUTUAL HEALTH, METROPOLITAN HEALTH, NATIONWIDE MUTUAL HEALTHCARE, PHOENIX HEALTH INSURANCE, PREMIER MUTUAL HEALTH, UNIVERSAL HEALTH INSURANCE"],
     "number of bed": "10 at airport branch",
-    "Working hours": "24/7 throughout the year"}, 
+    "Working hours": "24/7 throughout the year"},
+
+    {
+      "name": "Medifem ",
+      "address": " Margaret Anderson Avenue, Westlands, Accra, Ghana.",
+     "contact": "+233 302 433963, +233 554 110224",
+     "email": "info@medifemhospital.com",
+     "type": "Private Clinic",
+     "services": ["General Surgery", "Pharmacy", "Urology", "Cardiology", "Dentistry", "Paediatrics"],
+     "Working hours": "24/7 throughout the year"}
     
 ]
