@@ -87,6 +87,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "idmarjr",
+      "name": "Idmar Ramos Junior (Id)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/301545?v=4",
+      "profile": "http://id.etc.br",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
