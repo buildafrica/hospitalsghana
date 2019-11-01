@@ -1,6 +1,6 @@
 # Hospitals in Ghana
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 
 A Progressive Web App publishing a database of Public and Private Hospitals in Accra
 [hospitalsinghana.com](https://github.com/wecodeafrica/hospitalsghanas).
@@ -42,6 +42,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/audreymengue"><img src="https://avatars3.githubusercontent.com/u/51542962?v=4" width="100px;" alt="Audrey Harmonie M Mengue"/><br /><sub><b>Audrey Harmonie M Mengue</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=audreymengue" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=audreymengue" title="Documentation">📖</a></td>
     <td align="center"><a href="https://eadortsu.com"><img src="https://avatars2.githubusercontent.com/u/40460447?v=4" width="100px;" alt="Eugene"/><br /><sub><b>Eugene</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=eadortsu" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=eadortsu" title="Tests">⚠️</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=eadortsu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/owanikin"><img src="https://avatars3.githubusercontent.com/u/54582856?v=4" width="100px;" alt="owanikin"/><br /><sub><b>owanikin</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=owanikin" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=owanikin" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/divinedela"><img src="https://avatars0.githubusercontent.com/u/34287487?v=4" width="100px;" alt="Divine Dela"/><br /><sub><b>Divine Dela</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=divinedela" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=divinedela" title="Documentation">📖</a></td>
   </tr>
 </table>
 
