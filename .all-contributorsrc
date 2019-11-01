@@ -77,6 +77,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "divinedela",
+      "name": "Divine Dela",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34287487?v=4",
+      "profile": "https://github.com/divinedela",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
