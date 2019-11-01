@@ -1,6 +1,6 @@
 # Hospitals in Ghana
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 
 A Progressive Web App publishing a database of Public and Private Hospitals in Accra
 [hospitalsinghana.com](https://github.com/wecodeafrica/hospitalsghanas).
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/divinedela"><img src="https://avatars0.githubusercontent.com/u/34287487?v=4" width="100px;" alt="Divine Dela"/><br /><sub><b>Divine Dela</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=divinedela" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=divinedela" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://id.etc.br"><img src="https://avatars3.githubusercontent.com/u/301545?v=4" width="100px;" alt="Idmar Ramos Junior (Id)"/><br /><sub><b>Idmar Ramos Junior (Id)</b></sub></a><br /><a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=idmarjr" title="Code">💻</a> <a href="https://github.com/wecodeafrica/hospitalsghana/commits?author=idmarjr" title="Documentation">📖</a></td>
   </tr>
 </table>
 
