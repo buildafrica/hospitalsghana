@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/wecodeafrica/hospitalsghana#readme",
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.3.0",
